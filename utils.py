@@ -1,5 +1,6 @@
 import random
 
+
 class BullsAndCowsGame:
     def __init__(self):
         self.secret_number = self.generate_number()
